@@ -1,4 +1,4 @@
-module github.com/zerobounce/zerobouncego
+module go.riotgames.com/productsecurity/zerobouncego
 
 go 1.16
 
